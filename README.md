@@ -8,7 +8,8 @@ A disciplina de Engenharia de Software III tem como objetivo apresentar os conce
 
 ## Histórico
 
-- Aula 01 - 2018.08.18: Diagrama de Classe e Cardinalidade;
-- Aula 02 - 2018.08.23: Tipo de Ligação - Agrergação e Composição;
-- Aula 03 - 2018.08.25: Exercício Sistema de Venda de Produtos (Compra/Fornecedor);
-- Aula 04 - 2018.08.30: Exercício Sistema de Venda de Produtos (Atributos e Métodos);
+- Aula 01 - 2023.08.18: Diagrama de Classe e Cardinalidade;
+- Aula 02 - 2023.08.23: Tipo de Ligação - Agrergação e Composição;
+- Aula 03 - 2023.08.25: Exercício Sistema de Venda de Produtos (Compra/Fornecedor);
+- Aula 04 - 2023.08.30: Exercício Sistema de Venda de Produtos (Atributos e Métodos);
+- Aula 05 - 2023.09.01: Atividade e Dúvidas (Finalização Exercício Sistema de Venda de Produtos);

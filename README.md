@@ -13,3 +13,4 @@ A disciplina de Engenharia de Software III tem como objetivo apresentar os conce
 - Aula 03 - 2023.08.25: Exercício Sistema de Venda de Produtos (Compra/Fornecedor);
 - Aula 04 - 2023.08.30: Exercício Sistema de Venda de Produtos (Atributos e Métodos);
 - Aula 05 - 2023.09.01: Atividade e Dúvidas (Finalização Exercício Sistema de Venda de Produtos);
+- Aula 06 - 2023.09.06: Exercício Conta Bancária (Casos de Uso);

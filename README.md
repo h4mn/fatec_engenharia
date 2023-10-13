@@ -15,3 +15,6 @@ A disciplina de Engenharia de Software III tem como objetivo apresentar os conce
 - Aula 05 - 2023.09.01: [Atividade e Dúvidas (Finalização Exercício Sistema de Venda de Produtos)](tarefas/ES3m230901_T01_0040482222015_CL_Vendas_de_Produtos.pdf);
 - Aula 06 - 2023.09.20: [Exercício Conta Bancária (Casos de Uso)](aulas/ES3m230920_06_0040482222015.md);
 - Aula 07 - 2023.09.27: [Exercício Clinica Veterinária](aulas/ES3m230927_07_0040482222015.md);
+- Avaliação 01a - 2023.10.04: [Exercício Advocacia](aulas/ES3m231004_Av1_0040482222015_UC_Advocacia.md);
+- Avaliação 01b - 2023.10.13: [Exercício Video Locadora](aulas/ES3m231013_Av1b_0040482222015_CL_VideoLocadora.md);
+- Aula 08 - 2023.10.11: [Exercício Emitir Saldo (Diagrama de Sequência)](aulas/ES3m231018_08_0040482222015.md);
